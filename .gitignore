@@ -17,6 +17,7 @@ var/
 *.egg
 .idea/
 .pytest_cache/
+node_modules/
 
 *requirements*.txt
 
